@@ -563,5 +563,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Predictions: {fileID: 4900000, guid: 085d078773cb64b889ea03d7e1c11b22, type: 3}
-  Prediction: {fileID: 1336420902552254, guid: 71ad6430fe00543d0a342763cd402f23, type: 2}
+  Prediction_Prefab: {fileID: 1336420902552254, guid: 71ad6430fe00543d0a342763cd402f23,
+    type: 2}
   Instructions: {fileID: 1203703133}

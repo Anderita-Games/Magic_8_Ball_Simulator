@@ -1,7 +1,7 @@
-It is certain
+﻿It is certain
 It is decidedly so
 Without a doubt
-Yes - definitely 
+Yes - definitely
 You may only rely on it
 As I see it, yes
 Most likely
@@ -11,10 +11,10 @@ Signs point to yes
 Reply hazy, try again
 Ask again later
 Better not tell you now
-Cannot product now
+Cannot predict now
 Concentrate and ask again
-On’t count on it
+Don't count on it
 My reply is no
-My source say no
+My source says no
 Outlook not so good
 Very doubtful
